@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+.runtime/
+models/
+Med/
+reports/
+Ultralytics/
+.env
+.env.*
+!.env.example
+*.pt
+*.pth
+*.onnx
+*.zip
+*.log
